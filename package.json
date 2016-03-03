@@ -7,6 +7,7 @@
     "platforms": [
       "ios",
       "android",
+      "amazon-fireos",
       "wp8",
       "blackberry10"
     ]
